@@ -1,0 +1,38 @@
+.navber{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    background-color: darkmagenta;
+}
+.navLeft ul{
+    display: flex;
+}
+.navLeft ul li{
+    list-style: none;
+}
+.navLeft ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 25px;
+    cursor: pointer;
+    padding: 10px;
+    transition: all linear .3s;
+}
+.navLeft ul li a:hover{
+    border-bottom: 2px solid #fff;
+}
+.navRight h3{
+    color: #fff;
+    margin-right: 30px;
+}
+.svg-inline--fa{
+    margin-right: 5px;
+}

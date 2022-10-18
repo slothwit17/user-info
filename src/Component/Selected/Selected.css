@@ -1,0 +1,23 @@
+.selectedUser{
+    width: 1180px;
+    margin: 30px auto;
+    display: flex;
+}
+.selectedInfo{
+    width: 760px;
+    margin-right: 25px;
+}
+.selectedUserImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.selectedUserImg img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.userSalary{
+    padding: 0 30px;
+    border-left: 2px solid lightgray;
+}

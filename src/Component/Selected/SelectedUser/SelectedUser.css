@@ -1,0 +1,9 @@
+.selectedUserData{
+    width: 715px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow:  0 0 10px lightgray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}

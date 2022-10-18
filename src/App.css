@@ -1,0 +1,8 @@
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1180px;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 60px;
+}
